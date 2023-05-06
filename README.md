@@ -1,5 +1,8 @@
 ### Hi there 👋
 My name is Emmanuel Nii Armar
+- 🔭 I’m currently working on Client Server Netty Application 
+- - 🤔 I’m looking for help with Computer Organization and achitecture
+- - 🌱 I’m currently learning Data Structures and Algorithms
 <!--
 **Branii/Branii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
